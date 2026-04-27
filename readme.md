@@ -83,11 +83,11 @@ User Query → Assistant Node → (Tool Decision)
 
 ### 🖥️ Agent Interface
 
-![Agent Interface](agentic-ai-researcher.png)
+![Agent Interface](assets/agentic-ai-researcher.png)
 
 ### 🔁 LangGraph Execution Model
 
-![LangGraph Model](langgraph-model.png)
+![LangGraph Model](assets/langgraph-model.png)
 
 ---
 
