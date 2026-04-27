@@ -197,6 +197,7 @@ streamlit run main.py
 ## 🧑‍💻 Author
 
 **Santhosh P**
+
 Final Year Electrical and Electronics Engineering Student
 Aspiring Full Stack AI Engineer 🚀
 
